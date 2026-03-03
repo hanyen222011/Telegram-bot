@@ -1,0 +1,262 @@
+{
+    "users": {
+        "7945122206": {
+            "credits": 10000010,
+            "name": "JACKER"
+        },
+        "8252673561": {
+            "credits": 30,
+            "name": "Mohd"
+        }
+    },
+    "banned": [],
+    "special": [],
+    "history": [
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\uddee\ud83c\uddf3 India Number Info",
+            "query": "9876543210",
+            "time": "2026-02-28 00:30:32"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\uddf5\ud83c\uddf0 Pakistan Number Info",
+            "query": "92387598588",
+            "time": "2026-02-28 00:30:57"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\uddf5\ud83c\uddf0 Pakistan Number Info",
+            "query": "92387598588",
+            "time": "2026-02-28 00:31:25"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\uddee\ud83c\uddf3 India Number Info",
+            "query": "9876543210",
+            "time": "2026-03-02 01:45:19"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\uddee\ud83c\uddf3 India Number Info",
+            "query": "8860586415",
+            "time": "2026-03-02 01:45:36"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\uddf5\ud83c\uddf0 Pakistan Number Info",
+            "query": "923333333333",
+            "time": "2026-03-02 01:45:54"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83d\udcee Pincode Info",
+            "query": "110062",
+            "time": "2026-03-02 01:48:25"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83d\ude98 Vehicle Info",
+            "query": "HR26EV0001",
+            "time": "2026-03-02 01:48:40"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\udfe6 IFSC Code Info",
+            "query": "SBIN0004843",
+            "time": "2026-03-02 01:51:25"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\udd94 Pakistan CNIC Info",
+            "query": "2222222222222",
+            "time": "2026-03-02 01:51:38"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\udd94 Pakistan CNIC Info",
+            "query": "22222222222",
+            "time": "2026-03-02 01:56:56"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\uddf5\ud83c\uddf0 Pakistan Number Info",
+            "query": "923001234567",
+            "time": "2026-03-02 01:58:10"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\uddf5\ud83c\uddf0 Pakistan Number Info",
+            "query": "923774884892",
+            "time": "2026-03-02 01:58:26"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83d\ude98 Vehicle Info",
+            "query": "HR26EV001",
+            "time": "2026-03-02 01:58:38"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\uddee\ud83c\uddf3 India Number Info",
+            "query": "9876543210",
+            "time": "2026-03-02 02:12:06"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\uddf5\ud83c\uddf0 Pakistan Number Info",
+            "query": "923001234567",
+            "time": "2026-03-02 02:12:23"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83d\ude98 Vehicle Info",
+            "query": "HR26EV0001",
+            "time": "2026-03-02 07:24:14"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83d\udd0d IND Number Tracker",
+            "query": "9876543210",
+            "time": "2026-03-02 07:24:33"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83d\ude98 Vehicle Info",
+            "query": "HR26EV001",
+            "time": "2026-03-02 10:56:16"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83d\ude98 Vehicle Info",
+            "query": "HR26EV0001",
+            "time": "2026-03-02 11:10:07"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83d\udd0d IND Number Tracker",
+            "query": "9876543210",
+            "time": "2026-03-02 11:10:24"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83d\udd0d IND Number Tracker",
+            "query": "9876543210",
+            "time": "2026-03-02 11:14:02"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\udfe6 IFSC Code Info",
+            "query": "SBIN0001234",
+            "time": "2026-03-02 11:14:21"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\udfe6 IFSC Code Info",
+            "query": "SBIN0001234",
+            "time": "2026-03-02 11:40:46"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\uddee\ud83c\uddf3 India Number Info",
+            "query": "9876543210",
+            "time": "2026-03-02 11:41:20"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\uddf5\ud83c\uddf0 Pakistan Number Info",
+            "query": "923864947848",
+            "time": "2026-03-02 11:41:46"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\uddf5\ud83c\uddf0 Pakistan Number Info",
+            "query": "923246849348",
+            "time": "2026-03-02 11:42:13"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\uddf5\ud83c\uddf0 Pakistan Number Info",
+            "query": "9876543210",
+            "time": "2026-03-02 11:42:41"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\uddf5\ud83c\uddf0 Pakistan Number Info",
+            "query": "923218838279",
+            "time": "2026-03-02 11:43:01"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\udd94 Pakistan CNIC Info",
+            "query": "3510312384537",
+            "time": "2026-03-02 11:43:25"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83d\udccb GST Info",
+            "query": "29AABCU9603R1ZM",
+            "time": "2026-03-02 11:43:37"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83d\udccb GST Info",
+            "query": "29AABCU9603R1ZM",
+            "time": "2026-03-02 11:45:43"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\uddee\ud83c\uddf3 India Number Info",
+            "query": "9876543210",
+            "time": "2026-03-02 12:48:49"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\uddf5\ud83c\uddf0 Pakistan Number Info",
+            "query": "923076449956",
+            "time": "2026-03-02 12:49:35"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\udd94 Pakistan CNIC Info",
+            "query": "3510312384537",
+            "time": "2026-03-02 12:49:47"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83d\udcee Pincode Info",
+            "query": "110001",
+            "time": "2026-03-02 12:49:56"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83d\ude98 Vehicle Info",
+            "query": "HR26EV0001",
+            "time": "2026-03-02 12:50:18"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83d\udd0d IND Number Tracker",
+            "query": "9876543210",
+            "time": "2026-03-02 12:50:42"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83d\udccb GST Info",
+            "query": "29AABCU9603R1ZM",
+            "time": "2026-03-02 12:50:55"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83c\udd94 Aadhar Card Info",
+            "query": "222222222222",
+            "time": "2026-03-03 00:11:41"
+        },
+        {
+            "user_id": "7945122206",
+            "service": "\ud83e\udeaa Aadhar Card Info",
+            "query": "222222222222",
+            "time": "2026-03-03 00:13:44"
+        }
+    ]
+}
